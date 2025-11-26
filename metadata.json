@@ -1,0 +1,5 @@
+{
+  "name": "Atomik - Grade 11 Chemistry Simulator",
+  "description": "An interactive atomic structure simulator and periodic table explorer designed for Grade 11 Chemistry students. Features dynamic Bohr models, electron configurations, and AI-powered chemical insights.",
+  "requestFramePermissions": []
+}
